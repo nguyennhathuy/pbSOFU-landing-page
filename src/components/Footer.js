@@ -10,14 +10,14 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">DarkLeas</h1>
+                <h1 className="logo">pbSOFU</h1>
                 <p className="footer-text">
-                  Lorem ipsum Here are thriteen health benefits of apples Lorem
+                  
         
                 </p>
               </div>
               <div className="col-md-3">
-                <p className="footer-title">Important Link</p>
+                <p className="footer-title">Link</p>
                 <ul>
                   <li>
                   <Link   
@@ -46,13 +46,13 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >burhankcd@gmail.com</Link>
+                    <Link to="#" ></Link>
                   </li>
                   <li>
-                    <Link to="#" > Burhan #3265</Link>
+                    <Link to="#" ></Link>
                   </li>
                   <li>
-                    <Link to="#" >0212 444 44 44</Link>
+                    <Link to="#" ></Link>
                   </li>
                 </ul>
               </div>
